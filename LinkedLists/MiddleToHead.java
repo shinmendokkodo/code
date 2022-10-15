@@ -1,6 +1,7 @@
 /*
 Problem Description
-Given a singly linked list, find the middle node of the linked list and move that node to the head of the list. Return the head of the list. In the case of a list with an even number of nodes, use the second middle one.
+Given a singly linked list, find the middle node of the linked list and move that node to the head of the list. 
+Return the head of the list. In the case of a list with an even number of nodes, use the second middle one.
 
 Input format
 There are 2 lines of input

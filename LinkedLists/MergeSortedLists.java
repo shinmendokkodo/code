@@ -1,6 +1,7 @@
 /*
 Problem Description
-Given 2 sorted linked lists, merge them into a new sorted linked list and return head of the merged list. The new list should be made by splicing (adjusting the pointers) together the nodes of the first two lists.
+Given 2 sorted linked lists, merge them into a new sorted linked list and return head of the merged list. 
+The new list should be made by splicing (adjusting the pointers) together the nodes of the first two lists.
 
 Input format
 N - An integer denoting the number of nodes in the linked list.

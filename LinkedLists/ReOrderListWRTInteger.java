@@ -1,11 +1,15 @@
 /*
 Problem Description
-Given a linked list and an integer X, partition the LL around X, such that all nodes less than X come before all nodes greater than X. If X is contained within the list, then those nodes need
+Given a linked list and an integer X, partition the LL around X, 
+such that all nodes less than X come before all nodes greater than X. 
+If X is contained within the list, then those nodes need
 
-to be after the elements less than X and before the elements greater than X, i.e. they should appear between the left and right partitions.
+to be after the elements less than X and before the elements greater than X, 
+i.e. they should appear between the left and right partitions.
 
 
-You can also see if you can preserve the order for elements on either side of the partition. For instance, for given LL 2, 6, 5, 7, 1 and X = 5, the answer should be 2, 1, 5, 6, 7 only, instead of 1, 2, 5, 6, 7.
+You can also see if you can preserve the order for elements on either side of the partition. 
+For instance, for given LL 2, 6, 5, 7, 1 and X = 5, the answer should be 2, 1, 5, 6, 7 only, instead of 1, 2, 5, 6, 7.
 
 Input format
 N - An integer denoting the number of nodes in the linked list.

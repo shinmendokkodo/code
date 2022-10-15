@@ -3,7 +3,8 @@ Problem Description
 Given the elements of a linked list, reverse it.
 
 
-You’ll have to implement the given method, which has the original list’s head pointer as an argument, and return the head of the updated list.
+You’ll have to implement the given method, which has the original list’s head pointer as an argument, 
+and return the head of the updated list.
 
 Input format
 There are two lines of input.

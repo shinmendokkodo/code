@@ -1,6 +1,7 @@
 /*
 Problem Description
-Given a linked list(need not be sorted) with duplicates, remove all duplicates, such that only the first occurrence of each element must remain in the LL, and return the head.
+Given a linked list(need not be sorted) with duplicates, remove all duplicates, 
+such that only the first occurrence of each element must remain in the LL, and return the head.
 
 Input format
 There are 2 lines of input

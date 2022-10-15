@@ -1,6 +1,8 @@
 /*
 Problem Description
-You’re given two numbers represented by two linked lists, where each node contains a single digit. The digits are stored in forward order i.e the one’s digit is at the tail of the list. Write a function that adds the two numbers and returns the sum as a linked list in the same order.
+You’re given two numbers represented by two linked lists, where each node contains a single digit. 
+The digits are stored in forward order i.e the one’s digit is at the tail of the list. 
+Write a function that adds the two numbers and returns the sum as a linked list in the same order.
 
 Input format
 There are 4 lines of input.

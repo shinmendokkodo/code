@@ -1,6 +1,8 @@
 /*
 Problem Description
-You have two numbers represented by a linked list, where each node contains a single digit. The digits are stored in reverse order, such that the one’s digit is at the head of the list. Write a function that adds the two numbers and returns the sum as a linked list.
+You have two numbers represented by a linked list, where each node contains a single digit. 
+The digits are stored in reverse order, such that the one’s digit is at the head of the list. 
+Write a function that adds the two numbers and returns the sum as a linked list.
 
 Input format:
 First line contains N, number of elements in the first linked list.

@@ -36,7 +36,8 @@ Output format
 Return the intersection node of the lists.
 
 Function Definition
-You have to complete the given function. It accepts two arguments - the heads of each LL. You have to return a pointer to the intersection node of the two LLs.
+You have to complete the given function. It accepts two arguments - the heads of each LL. 
+You have to return a pointer to the intersection node of the two LLs.
 
 Constraints
 0 <= N <= 10^5

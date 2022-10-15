@@ -17,7 +17,8 @@ Output format
 Return the head of the LL after deleting the Kth node from the end.
 
 Function definition
-You have to complete the given function. It accepts two arguments - the head of the linked list, and k. You have to return the head of the LL after making the necessary change.
+You have to complete the given function. It accepts two arguments - the head of the linked list, and k. 
+You have to return the head of the LL after making the necessary change.
 
 Constraints
 1 <= N<= 10^5

@@ -36,7 +36,9 @@ Sample Output 1
 4 5 7 9 10 0 1 2
 
 Explanation 1
-The input is a sorted circular linked list and the given pointer is a reference to node [4]. A new node with [7] has to be inserted between [5] and [9] for the list to remain sorted. Return node [4] which is the input pointer given.
+The input is a sorted circular linked list and the given pointer is a reference to node [4]. 
+A new node with [7] has to be inserted between [5] and [9] for the list to remain sorted. 
+Return node [4] which is the input pointer given.
 
 Sample Input 2
 0
@@ -47,7 +49,8 @@ Sample Output 2
 4
 
 Explanation 2
-The input is a sorted circular linked list which is empty. Create a circular linked list with a new node [4] and return the new node.
+The input is a sorted circular linked list which is empty. 
+Create a circular linked list with a new node [4] and return the new node.
 */
 
 package LinkedLists;
